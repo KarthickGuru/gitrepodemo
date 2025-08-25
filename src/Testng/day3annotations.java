@@ -40,6 +40,12 @@ public class day3annotations {
 	
 	@Test
 	public void method100() {
-		System.out.println("hh");
+
+}
+	
+	
+	@Test
+	public void method101() {
+		System.out.println("");
 	}
 }
