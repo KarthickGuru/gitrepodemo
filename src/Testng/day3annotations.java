@@ -29,5 +29,17 @@ public class day3annotations {
 
 		System.out.println("I will execute the first suite");
 	}
+	
+	
+	@Test
+	public void method99() {
+		
+		System.out.println("High school");
+	}
 
+	
+	@Test
+	public void method100() {
+		System.out.println("hh");
+	}
 }
