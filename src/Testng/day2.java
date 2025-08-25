@@ -34,5 +34,15 @@ public class day2 {
 
 		System.out.println("I will execute before the Every Test Methods");
 	}
+	
+	@Test
+	public void method60() {
+		System.out.println("TYUI");
+	}
+	
+	@Test
+	public void method70() {
+		System.out.println("rtyuio");
+	}
 
 }
