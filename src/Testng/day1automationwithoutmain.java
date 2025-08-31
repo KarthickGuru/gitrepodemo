@@ -40,4 +40,14 @@ public class day1automationwithoutmain {
 		System.out.println("Framework");
 	}
 
+	@Test
+	public void method104() {
+		System.out.println("");
+	}
+
+	@Test
+	public void method154() {
+		System.out.println("");
+	}
+
 }
