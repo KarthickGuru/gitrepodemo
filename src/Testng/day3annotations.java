@@ -48,4 +48,13 @@ public class day3annotations {
 	public void method101() {
 		System.out.println("");
 	}
+
+	@Test
+	public void method102() {
+		System.out.println("");
+	}
+	@Test
+	public void method103() {
+		System.out.println("");
+	}
 }
