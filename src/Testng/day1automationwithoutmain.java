@@ -35,4 +35,9 @@ public class day1automationwithoutmain {
 		System.out.println("Framework");
 	}
 
+	@Test(groups = { "Smoke Testing" })
+	public void jeepd() {
+		System.out.println("Framework");
+	}
+
 }
